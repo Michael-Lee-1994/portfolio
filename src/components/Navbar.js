@@ -5,19 +5,19 @@ const Navbar = () => {
     return (
         <header>
             <div>
-                <NavLink>
+                <NavLink to="/" exact>
                     Home
                 </NavLink>
-                <NavLink>
+                <NavLink to="/about">
                     About
                 </NavLink>
-                <NavLink>
+                <NavLink to="/project">
                     Projects
                 </NavLink>
-                <NavLink>
+                <NavLink to="/social">
                     Socials
                 </NavLink>
-                <NavLink>
+                <NavLink to="/contact">
                     Contact
                 </NavLink>
             </div>

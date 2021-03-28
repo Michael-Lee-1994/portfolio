@@ -10,6 +10,8 @@ import Social from './components/Social';
 function App() {
   return (
     <BrowserRouter>
+      <NavBar />
+      
       <Switch>
         <Route component={About} path="/about"/>
         <Route component={Contact} path="/contact"/>
