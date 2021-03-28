@@ -4,7 +4,7 @@ class Social extends Component {
     render() {
         return (
             <div>
-                
+                Socials
             </div>
         );
     }
