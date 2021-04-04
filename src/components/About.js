@@ -7,26 +7,81 @@ class About extends Component {
                 <h1>
                     About
                 </h1>
+                
                 <h2>
                     A little about me
                 </h2>
-                <div>
-                    
-                </div>
-                <div>
-                    
-                </div>
-                <div>
-                    
-                </div>
-                <div>
 
-                </div>
                 <div>
-                    
+                    <div>
+                        <h4>date</h4>
+                        <h4>title</h4>
+                    </div>
+                    <div>
+                        <p>
+                            summary
+                        </p>
+                    </div>
                 </div>
+
                 <div>
-                    
+                     <div>
+                        <h4>date</h4>
+                        <h4>title</h4>
+                    </div>
+                    <div>
+                        <p>
+                            summary
+                        </p>
+                    </div>
+                </div>
+
+                <div>
+                     <div>
+                        <h4>date</h4>
+                        <h4>title</h4>
+                    </div>
+                    <div>
+                        <p>
+                            summary
+                        </p>
+                    </div>
+                </div>
+
+                <div>
+                     <div>
+                        <h4>date</h4>
+                        <h4>title</h4>
+                    </div>
+                    <div>
+                        <p>
+                            summary
+                        </p>
+                    </div>
+                </div>
+
+                <div>
+                     <div>
+                        <h4>date</h4>
+                        <h4>title</h4>
+                    </div>
+                    <div>
+                        <p>
+                            summary
+                        </p>
+                    </div>
+                </div>
+
+                <div>
+                     <div>
+                        <h4>date</h4>
+                        <h4>title</h4>
+                    </div>
+                    <div>
+                        <p>
+                            summary
+                        </p>
+                    </div>
                 </div>
             
             </div>
