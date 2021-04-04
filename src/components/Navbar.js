@@ -4,7 +4,8 @@ import {NavLink} from 'react-router-dom';
 const Navbar = () => {
     return (
         <header>
-            <div>
+            <div>    
+                Michael Lee
                 <NavLink to="/" exact>
                     Home
                 </NavLink>
