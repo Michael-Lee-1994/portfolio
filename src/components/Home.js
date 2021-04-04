@@ -8,7 +8,7 @@ class Home extends Component {
                     Welcome To My Portfolio!
                 </h1>
                 <h3>
-                I am Michael Lee, a Full Stack Developer, eager to expand my knowledge of developing.
+                    I am Michael Lee, a Full Stack Developer, eager to expand my knowledge of developing.
                 </h3>
             </div>
         );
