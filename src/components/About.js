@@ -27,24 +27,24 @@ class About extends Component {
 
                 <div>
                      <div>
-                        <h4>date</h4>
-                        <h4>title</h4>
+                        <h4>Sept 2020 - Jan 2021</h4>
+                        <h4>Flatiron School</h4>
                     </div>
                     <div>
                         <p>
-                            summary
+                        An intensive 5-month software engineering coding boot camp dedicated to teaching various web application development skills. I learned skills consisting of JavaScript, React, React Native, Redux, Ruby, Rails, HTML, CSS and more.
                         </p>
                     </div>
                 </div>
 
                 <div>
                      <div>
-                        <h4>date</h4>
-                        <h4>title</h4>
+                        <h4>April 2019 - June 2019</h4>
+                        <h4>Revature</h4>
                     </div>
                     <div>
                         <p>
-                            summary
+                        Gained experience with working and learning C#, .NET framework, and more, in a 9-5 job environment.  
                         </p>
                     </div>
                 </div>
